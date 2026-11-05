@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan covering three targeted updates to the Bahasa Melayu Form 1 Kadaran survival game:\n1. Raising the bottom-right touch action buttons (LARI, INTERAKSI, LOMPAT) and desktop inventory dock above the floating Powered by Netlify watermark while preserving ergonomic spacing across portrait and landscape viewports.\n2. Implementing a cross-platform Fullscreen Controller for the Mod Skrin Penuh button with WebKit/standard API support, automatic Phaser canvas resize synchronization, and an Expanded Viewport Mode fallback with a Bahasa Melayu notice for mobile browsers like iPhone Safari.\n3. Updating Baldi's movement speed progression to start at 70, increase immediately by +10 per wrong notebook answer, remain unchanged on correct answers (1–6), jump to 130 on the 7th notebook, and never exceed the hard cap of 130 in both physics velocity and HUD telemetry.",
+  "updatedAt": "2026-11-03T02:49:59.457481294Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
